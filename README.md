@@ -1,7 +1,7 @@
 
 # Project Title
 
-Links to these challenges in my codepen :
+Codepen Links to my solutions :
 
 
 ## 🔗 Links
